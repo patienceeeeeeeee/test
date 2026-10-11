@@ -18,7 +18,7 @@
 
 ## 最近的一篇思考
 
-### [坂本龙马与孙正义：我开始重新理解“志向”这两个字](articles/ryoma-masayoshi-ambition.md)
+### [坂本龙马与孙正义：我开始重新理解“志向”这两个字](文章/坂本龙马与孙正义-关于志向的思考.md)
 
 **阅读与思考** · 2026年10月11日
 
@@ -26,7 +26,7 @@
 
 > 志向不仅是想去哪里，更是为了抵达那里，愿意长期做出什么选择、承担什么代价。
 
-[阅读全文 →](articles/ryoma-masayoshi-ambition.md)　[浏览文章目录 →](articles/README.md)
+[阅读全文 →](文章/坂本龙马与孙正义-关于志向的思考.md)　[浏览文章目录 →](文章/README.md)
 
 ## 我关注的问题
 
@@ -54,5 +54,5 @@
 ---
 
 **Wong / Miles · 思考与记忆**  
-[文章目录](articles/README.md) · [编辑与维护说明](docs/MAINTENANCE.md)  
+[文章目录](文章/README.md) · [编辑与维护说明](docs/MAINTENANCE.md)  
 文字持续修订，观点保留被事实改变的空间。

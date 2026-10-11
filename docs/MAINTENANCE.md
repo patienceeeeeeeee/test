@@ -7,8 +7,8 @@
 | 要修改什么 | 打开哪里 |
 | --- | --- |
 | 个人简介、关注主题、文章入口 | [编辑个人主页](https://github.com/patienceeeeeeeee/test/edit/main/README.md) |
-| 《坂本龙马与孙正义》正文 | [编辑文章](https://github.com/patienceeeeeeeee/test/edit/main/articles/ryoma-masayoshi-ambition.md) |
-| 文章目录 | [编辑目录](https://github.com/patienceeeeeeeee/test/edit/main/articles/README.md) |
+| 《坂本龙马与孙正义》正文 | [编辑文章](https://github.com/patienceeeeeeeee/test/edit/main/文章/坂本龙马与孙正义-关于志向的思考.md) |
+| 文章目录 | [编辑目录](https://github.com/patienceeeeeeeee/test/edit/main/文章/README.md) |
 | GitHub Pages网页中的文章内容 | [编辑notes.json](https://github.com/patienceeeeeeeee/test/edit/main/notes.json) |
 
 登录GitHub，修改文字后点击 **Commit changes**。提交后，GitHub中的文章会更新；Pages如已开启，会在部署完成后更新。
@@ -17,11 +17,11 @@
 
 ## 新增文章
 
-1. 在 `articles/` 下新建 `.md` 文件，写上标题、发布与修订日期、正文和必要来源。
-2. 在 [文章目录](../articles/README.md) 加入一行，并按需要更新 [个人主页](../README.md) 的推荐文章。
+1. 在 `文章/` 下新建 `.md` 文件，写上标题、发布与修订日期、正文和必要来源。
+2. 在 [文章目录](../文章/README.md) 加入一行，并按需要更新 [个人主页](../README.md) 的推荐文章。
 3. 若要同步到GitHub Pages，向 `notes.json` 的数组新增一条记录。
 
-`articles/` 是GitHub阅读版；`notes.json` 是网页阅读版。目前二者需要手动同步。
+`文章/` 是GitHub阅读版；`notes.json` 是网页阅读版。目前二者需要手动同步。
 
 下面仅为格式示例：
 
@@ -31,7 +31,7 @@
   "title": "一篇文章的标题",
   "category": "阅读",
   "updated": "2026-10-11T11:15:08+08:00",
-  "source": "articles/my-note.md",
+  "source": "文章/我的笔记.md",
   "body": "第一段。\n\n第二段。"
 }
 ```
