@@ -18,6 +18,18 @@
 
 ## 最近的一篇思考
 
+### [The Cost of Looking Effortless｜看起来毫不费力的代价](文章/The-Cost-of-Looking-Effortless.md)
+
+**中英对照 · 刻意训练 · 事实与观点** · 2026年10月18日
+
+从戴森的原型研发与电动车项目终止出发，讨论真实能力与表面从容的区别，附七天刻意练习方案。
+
+> Looking confident is not the same as being competent.
+
+[阅读全文 →](文章/The-Cost-of-Looking-Effortless.md)
+
+### 之前的文章
+
 ### [The Price of Progress｜成长的代价](文章/The-Price-of-Progress.md)
 
 **English Essay · Learning · Personal Growth** · 2026年10月18日
