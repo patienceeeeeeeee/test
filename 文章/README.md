@@ -6,6 +6,7 @@
 
 | 日期 | 文章 | 主题 |
 | --- | --- | --- |
+| 2026年10月18日 | [The Cost of Looking Effortless｜看起来毫不费力的代价](The-Cost-of-Looking-Effortless.md) | 中英对照 · 刻意训练 · 事实与观点 |
 | 2026年10月18日 | [The Price of Progress｜成长的代价](The-Price-of-Progress.md) | English Essay · Growth · Learning |
 | 2026年10月12日 | [皇岗口岸的清晨：职位越高，越要把责任做实](皇岗口岸的清晨-职位与责任.md) | 工作 · 判断 · 责任 |
 | 2026年10月11日 | [想进入国泰航空：我准备怎样证明自己能在压力下可靠工作](国泰航空-工作强度与求职准备.md) | 航空 · 职业 · 作品证明 |
