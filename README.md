@@ -18,7 +18,19 @@
 
 ## 最近的一篇思考
 
-### [皇岗口岸的清晨：职位越高，越要把责任做实](文章/皇岗口岸的清晨-职位与责任.md)
+### [The Price of Progress｜成长的代价](文章/The-Price-of-Progress.md)
+
+**English Essay · Learning · Personal Growth** · 2026年10月18日
+
+Why effort alone is not enough, why fundamentals matter, and how to measure real progress.
+
+> Be patient with results, but impatient with ineffective methods.
+
+[Read the essay →](文章/The-Price-of-Progress.md)
+
+### 之前的文章
+
+[皇岗口岸的清晨：职位越高，越要把责任做实](文章/皇岗口岸的清晨-职位与责任.md)
 
 **责任、勤奋与职业成长** · 2026年10月12日
 
@@ -27,8 +39,6 @@
 > 我希望自己以后得到的职位，能够由已经承担过的责任来支撑。
 
 [阅读全文 →](文章/皇岗口岸的清晨-职位与责任.md)
-
-### 之前的文章
 
 [想进入国泰航空：我准备怎样证明自己能在压力下可靠工作](文章/国泰航空-工作强度与求职准备.md)  
 关于航空工作的压力、申请条件与可以检查的作品。
